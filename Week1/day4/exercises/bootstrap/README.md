@@ -56,8 +56,6 @@ Style the form given in [exercise6.html](exercise6.html) using Bootstrap. (You w
 
 ## Exercise #7: Wild & Wacky Vegetables
 
-(Taken from http://www.pairuptocode.com/exercises/bootstrap.html)
-
 Format and extend the given [starer html file](exercise7.html) using Bootstrap by following the steps below.
 
 1) Use the [Bootstrap grids classes](http://getbootstrap.com/css/#grid) to create a sidebar and main content.
