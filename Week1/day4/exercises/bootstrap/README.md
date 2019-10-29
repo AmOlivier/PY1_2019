@@ -2,8 +2,6 @@
 
 ## Exercise #1: 960.gs
 
-This is not an exercise about Bootstrap (yet).
-
 Complete [exercise1.html](exercise1.html) such that that page displays as shown below:
 ![Exercise1](images/exercise1.png)
 
@@ -24,9 +22,11 @@ Complete [exercise2.html](exercise2.html) to create the following layout using B
 Hint: use [responsive classes](http://getbootstrap.com/css/#responsive-utilities) on rows.
 
 Mobile view:
+
 ![Exercise2 mobile](images/exercise2_mobile.png)
 
 Desktop view:
+
 ![Exercise2 desktop](images/exercise2_desktop.png)
 
 
