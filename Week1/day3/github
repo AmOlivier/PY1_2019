@@ -1,0 +1,21 @@
+Git for Windows
+git --version
+:qa to exit
+
+git clone https://github.com/zivuch/git.git
+
+git status
+
+git add filename / .
+
+git commit -m "message here"
+
+git push
+
+git pull
+
+git branch
+
+git checkout -b branchname
+
+git merge master
