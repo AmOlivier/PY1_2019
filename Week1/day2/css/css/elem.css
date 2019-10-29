@@ -1,0 +1,27 @@
+/*
+*
+.class
+#id
+element, element
+element element
+element > element
+element + element
+:hover
+:last-child
+:first-child
+!important
+text & fonts google font
+image
+box model - margin border padding
+px em rem
+flexbox
+*/
+.classname1, .classname2, .classname3, #id1, #id2 {
+  font-size:11px;
+}
+div, p, span{
+  background: yellow;
+}
+div p, div.calssname4, p.calssname5 {
+
+}

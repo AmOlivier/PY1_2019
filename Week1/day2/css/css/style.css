@@ -1,0 +1,118 @@
+/*
+Descriptiom: my first CSS
+Author: zivuch
+Created: 9-7-2019
+Last update: 28-10-2019 by Ziv
+*/
+/*
+selrtor {
+ property: value;
+}
+*/
+body {
+  font-family: 'Barriecito', cursive;
+  color: red;
+  font-size: 20px;
+}
+h1, p {
+  color: red;
+}
+p {
+  text-align: center;
+  color:blue;
+}
+header li {
+  list-style: none;
+  display: inline-block; 
+}
+li:first-child {
+  font-size: 5em;
+  color: red;
+}
+li:last-child {
+    font-size: 36px;
+    color: red;
+    background-color: green;
+}
+p span {
+  color:green;
+}
+.my-p-tag2 {
+  background-color: blue;
+}
+p.sara-p-tag {
+  background-color: yellow;
+  font-size: 42px;
+}
+#id1 span {
+  background-color: pink;
+}
+#id1 span:hover {
+  background-color: black;
+}
+p + span {
+
+}
+img.image-1 {
+  max-width:300px;
+  /*border: 2px solid red;*/
+  /*padding: 10px;*/
+  margin: 20px;
+}
+img .image-2{
+  padding: 45px 0 0 0;
+  padding: 45px 0;
+  padding-top: :45px !important;
+}
+
+img .image-2{
+  padding-top: :5px;
+}
+.inner-content {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+}
+header{
+  width: 100%;
+  float:none;
+  background-color: pink;
+}
+section{
+  width:75%;
+  float:left;
+  background-color: gray;
+}
+aside {
+  width:25%;
+  float:right;
+  background-color: green;
+}
+@media only screen and (max-width: 767px){
+  header {
+    width: 100%;
+    float:none;
+  }
+  section{
+    width:100%;
+    float:none;
+  }
+  aside {
+    width:100%;
+    float:none;
+  }
+}
+@media only screen and (max-width:450px) {
+  header {
+    width: 100%;
+    float:none;
+  }
+  section{
+    width:50%;
+    float:left;
+  }
+  aside {
+    width:50%;
+    float:right;
+  }
+}
