@@ -71,7 +71,7 @@ Format and extend the given [starer html file](exercise7.html) using Bootstrap b
 ![Exercise7/3](images/exercise7_3.png)
 
 
-## Exercise #8: Components
+## Exercise #9: Components
 
 Try the different Bootstrap components in action by building the following page step-by-step. There is no starter file for this exercise, you need to code everything from scratch.
 
